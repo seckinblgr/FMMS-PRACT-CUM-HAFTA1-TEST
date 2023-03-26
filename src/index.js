@@ -1,3 +1,3 @@
-import getData from './App';
+import getData from './App';          // index sayfamıza axios işlemini yaptığımız dosyamızı ekleiyoruz.
 
-getData(1)
+getData(1)          // fonksiyonumuzu çagırarak istenilen değer için sonuç alıyoruz.
